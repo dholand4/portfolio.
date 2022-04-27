@@ -203,6 +203,7 @@ section .title::after {
   font-size: 25px;
   font-weight: 500;
   margin-bottom: 10px;
+  text-align: justify;
 }
 
 .about .about-content .right .text span {
@@ -487,7 +488,7 @@ section .title::after {
   }
   .home .home-content .text-2 {
     
-    font-size: 38px;
+    font-size: 35px;
   }
 
   .home .home-content .text-3 {
